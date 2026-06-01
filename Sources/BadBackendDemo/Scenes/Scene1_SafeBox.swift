@@ -36,11 +36,12 @@ struct Scene1_SafeBox {
     }
 
     private static func test1_NullValues() {
-        print("\n[測試 1-1] 所有欄位都是 null")
+        print("\n[測試 1-1] null 值與欄位缺失，結果相同")
         let json = """
         { "id": null, "price": null, "inStock": null, "count": null }
         """
         print("  輸入:", json)
+        print("  提示: decodeIfPresent 對 null 與 key 缺失的處理相同，皆補上預設值")
         if let result = decode(json)?.toDomain() {
             print("  輸出:", result, "✅")
         }
