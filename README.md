@@ -8,9 +8,9 @@
 
 | 篇 | 主題 | 連結 |
 |---|---|---|
-| (1) | SafeBox / SafeArray：欄位層防禦 | [Swift 網路層生存指南 (1)](http://shinrenpan.github.io/posts/2026-01-01/) |
-| (2) | BaseResponseProtocol + ShieldedResponse：外殼層防禦 | [Swift 網路層生存指南 (2)](http://shinrenpan.github.io/posts/2026-01-10/) |
-| (3) | BaseResponse + decodePath：完整串接 | [Swift 網路層生存指南 (3)](http://shinrenpan.github.io/posts/2026-02-06/) |
+| (1) | SafeBox / SafeArray：欄位層防禦 | [Swift 網路層生存指南 (1)](https://shinrenpan.github.io/2026-01-01/) |
+| (2) | BaseResponseProtocol + ShieldedResponse：外殼層防禦 | [Swift 網路層生存指南 (2)](https://shinrenpan.github.io/2026-01-10/) |
+| (3) | BaseResponse + decodePath：完整串接 | [Swift 網路層生存指南 (3)](https://shinrenpan.github.io/2026-02-06/) |
 
 ## 執行方式
 
